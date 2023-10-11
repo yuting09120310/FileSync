@@ -1,0 +1,10 @@
+D:\Project\GIT\SKL_FileSync\FileSync\bin\Debug\FileSync.exe.config
+D:\Project\GIT\SKL_FileSync\FileSync\bin\Debug\FileSync.exe
+D:\Project\GIT\SKL_FileSync\FileSync\bin\Debug\FileSync.pdb
+D:\Project\GIT\SKL_FileSync\FileSync\obj\Debug\FileSync.csproj.AssemblyReference.cache
+D:\Project\GIT\SKL_FileSync\FileSync\obj\Debug\FileSync.FrmMain.resources
+D:\Project\GIT\SKL_FileSync\FileSync\obj\Debug\FileSync.Properties.Resources.resources
+D:\Project\GIT\SKL_FileSync\FileSync\obj\Debug\FileSync.csproj.GenerateResource.cache
+D:\Project\GIT\SKL_FileSync\FileSync\obj\Debug\FileSync.csproj.CoreCompileInputs.cache
+D:\Project\GIT\SKL_FileSync\FileSync\obj\Debug\FileSync.exe
+D:\Project\GIT\SKL_FileSync\FileSync\obj\Debug\FileSync.pdb

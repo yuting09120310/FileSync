@@ -1,0 +1,10 @@
+D:\Project\NET\SKL_FileSync\SKL_FileSync\bin\Debug\SKL_FileSync.exe.config
+D:\Project\NET\SKL_FileSync\SKL_FileSync\bin\Debug\SKL_FileSync.exe
+D:\Project\NET\SKL_FileSync\SKL_FileSync\bin\Debug\SKL_FileSync.pdb
+D:\Project\NET\SKL_FileSync\SKL_FileSync\obj\Debug\SKL_FileSync.csproj.AssemblyReference.cache
+D:\Project\NET\SKL_FileSync\SKL_FileSync\obj\Debug\SKL_FileSync.FrmMain.resources
+D:\Project\NET\SKL_FileSync\SKL_FileSync\obj\Debug\SKL_FileSync.Properties.Resources.resources
+D:\Project\NET\SKL_FileSync\SKL_FileSync\obj\Debug\SKL_FileSync.csproj.GenerateResource.cache
+D:\Project\NET\SKL_FileSync\SKL_FileSync\obj\Debug\SKL_FileSync.csproj.CoreCompileInputs.cache
+D:\Project\NET\SKL_FileSync\SKL_FileSync\obj\Debug\SKL_FileSync.exe
+D:\Project\NET\SKL_FileSync\SKL_FileSync\obj\Debug\SKL_FileSync.pdb
